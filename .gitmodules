@@ -1,0 +1,6 @@
+[submodule "prueba-tecnica-backend"]
+	path = prueba-tecnica-backend
+	url = https://github.com/Oliver-1311/prueba-tecnica-backend.git
+[submodule "prueba-tecnica-frontend"]
+	path = prueba-tecnica-frontend
+	url = https://github.com/Oliver-1311/prueba-tecnica-frontend.git
